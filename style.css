@@ -40,3 +40,18 @@
 .catagories img {
   width: 100px;
 }
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightslategray;
+}
+.orange-bg {
+  background-color: #fceae8;
+}
+.subscribe {
+  height: 300px;
+  background-color: #fceae8;
+}
+footer p {
+  text-align: center;
+  color: gray;
+}
